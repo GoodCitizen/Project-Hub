@@ -7,6 +7,9 @@ General Screen Styles
 Created by the epic SuperFriendly team.
 http://superfriend.ly/
 
+Edited by the equally epic Good Citizen team.
+http://wearegoodcitizen.com
+
 *************************************************
 */
 
@@ -33,7 +36,7 @@ body:after { content: 'mini'; display: none; }
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
  }
 html { font-size: 62.5%; } /* for rems */
-body { font-family: 'Karla', Helvetica, Arial, sans-serif; color: #333; }
+body { font-family: 'Open Sans', Helvetica, Arial, sans-serif; color: #333; }
 
 
 /* block level */
@@ -68,7 +71,7 @@ mark { background: none; font-style: normal; }
 
 video { width: 100%; height: auto; }
 
-a { text-decoration: none; color: #ff4000; position: relative; }
+a { text-decoration: none; color: #44B687; position: relative; }
 a:after { content: ''; border-bottom: 1px solid #aaa; position: absolute; bottom: -0.3em; width: 100%; left: 0; opacity: 0; transition: all 0.25s linear; -moz-transition: all 0.25s linear; -webkit-transition: all 0.25s linear; -o-transition: all 0.25s linear; }
 a:hover:after { opacity: 1; bottom: -0.07em; }
 
@@ -122,6 +125,7 @@ sub, sup { line-height: 0; }
 .page-header { border-top: 10px solid #000; padding: 2em 2.5% 1em; border-bottom: 1px solid #000; margin: 0 0 2em; }
 	.page-header-title { margin: 0 0 0.25em; line-height: 1; }
 	.page-header-subtitle { font-size: 1.6rem; text-transform: uppercase; letter-spacing: 0.1em; }
+  .page-header-agency { padding: 2em 0 0; font-weight: 400; border-top: 1px solid;}
 
 .entry { border-bottom: 1px solid #ccc; padding: 2em 0 0; position: relative; }
 	.entry-title { font-weight: normal; font-size: 3rem; margin: 0 0 0.1em; }
