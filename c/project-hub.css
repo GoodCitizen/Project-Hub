@@ -36,15 +36,15 @@ body:after { content: 'mini'; display: none; }
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
  }
 html { font-size: 62.5%; } /* for rems */
-body { font-family: 'Open Sans', Helvetica, Arial, sans-serif; color: #333; }
+body { font-family: 'Lato', Helvetica, Arial, sans-serif; color: #333; }
 
 
 /* block level */
 
-h1, .h1 { font: bold 4.2rem 'Karla', Helvetica, Arial, sans-serif; margin: 0 0 0.5em; }
-h2, .h2 { font: bold 1.8rem 'Karla', Helvetica, Arial, sans-serif; margin: 0 0 1em; }
-h3, .h3 { font: bold 1.5rem 'Karla', Helvetica, Arial, sans-serif; margin: 0 0 1em; }
-h4, h5, h6, .h4, .h5, .h6 { font: bold 1.2rem 'Karla', Helvetica, Arial, sans-serif; margin: 0 0 1em; }
+h1, .h1 { font: bold 4.2rem 'Lato', Helvetica, Arial, sans-serif; margin: 0 0 0.5em; }
+h2, .h2 { font: bold 1.8rem 'Lato', Helvetica, Arial, sans-serif; margin: 0 0 1em; }
+h3, .h3 { font: bold 1.5rem 'Lato', Helvetica, Arial, sans-serif; margin: 0 0 1em; }
+h4, h5, h6, .h4, .h5, .h6 { font: bold 1.2rem 'Lato', Helvetica, Arial, sans-serif; margin: 0 0 1em; }
 
 p, ul, dl, ol, table { font-size: 1.6rem; margin: 0 0 1.5em; color: #777; }
 ul { margin-left: 20px; font-size: 1.4rem; }
